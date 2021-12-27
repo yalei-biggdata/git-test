@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+*.iml
+*.idea
+.idea/
+target/
+/log/*
+log
+derby.log
+mojing2-task/dependency-reduced-pom.xml
